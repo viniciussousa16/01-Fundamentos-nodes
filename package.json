@@ -1,0 +1,21 @@
+{
+  "name": "01-fundamentos-nodes",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VinniSousa/01-Fundamentos-nodes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VinniSousa/01-Fundamentos-nodes/issues"
+  },
+  "homepage": "https://github.com/VinniSousa/01-Fundamentos-nodes#readme"
+}
