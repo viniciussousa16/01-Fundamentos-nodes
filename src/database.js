@@ -26,10 +26,8 @@ export class Database {
 
     insert(table, data) {
         if (Array.isArray(this.#database[table])){
-            console.log("AQUI ESTA")
             this.#database[table].push(data)
         } else {
-            console.log("ALI ESTÁ")
             this.#database[table] = [data]
         }
 
